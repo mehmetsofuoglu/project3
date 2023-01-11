@@ -1,0 +1,2 @@
+# Patika HTML>Bölüm Sonu Çalışması2
+Hakan Yalçınkaya Tarafından Hazırlanan [Bölüm Sonu Çalışması #2](https://www.youtube.com/watch?v=AgUa1cMUEVk&embeds_euri=https%3A%2F%2Fapp.patika.dev%2F&embeds_origin=https%3A%2F%2Fapp.patika.dev&feature=emb_imp_woyt) videosu ile birlikte hazırladığım çalışmadır.
